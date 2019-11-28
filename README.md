@@ -1,2 +1,0 @@
-# ExamenWitidealGetnumber
-Created with CodeSandbox
